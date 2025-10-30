@@ -1,3 +1,28 @@
+# Общая информация
+## Где скачать мод?
+Скачать зеркальные карты можно в разделе [**Releases**](https://github.com/MaxsonDev/rccars_mirror_maps_mod/releases) данного репозитория. 
+
+Или можно сразу начать скачивание архива выбрав желаемую версию карт:
+
+* [rccars_mirror_maps_1.0](https://github.com/MaxsonDev/rccars_mirror_maps_mod/releases/download/1.0/rccars_mirror_maps_1.0.zip)
+
+* [rccars_mirror_maps_2.0](https://github.com/MaxsonDev/rccars_mirror_maps_mod/releases/download/2.0/rccars_mirror_maps_2.0.zip)
+
+* [rccars_mirror_maps_3.0](https://github.com/MaxsonDev/rccars_mirror_maps_mod/releases/download/3.0/rccars_mirror_maps_3.0.zip)
+
+## Как установить мод?
+> [!IMPORTANT]
+> Для работы мода нужна версия игры c распакованными данными!!!
+> 
+> Для получения большей информации о распакованной версии игры можно ознакомиться с руководством в сообществе игры в Steam. ([RU](https://steamcommunity.com/sharedfiles/filedetails/?id=3385927533#7560023) | [EN](https://steamcommunity.com/sharedfiles/filedetails/?id=3392406916#7582771))
+1. Скачать архив с желаемой версией карт и распаковать. Самая стабильная и полноценная версия карт **3.0**.
+3. Файлы из папки **CarProfiles** перенести в папку игры **CarProfiles**. 
+4. Файлы из папки **RCCarsDB** перенести в папку игры **RCCarsDB**.
+5. Файлы из папки **Profiles** перенести в папку игры **Profiles**.
+6. Играть!
+
+Предварительно в папке с игрой сохранить файлы из папок **RCCarsDB**, **CarProfiles**, **Profiles**. Файлы в этих папках будут **заменены**!
+
 # Лог Версий Карт
 ## [3.0] - 27-10-2025
 ### Обновление карт до версии 3.0
