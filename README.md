@@ -1,4 +1,10 @@
 # Общая информация
+Много играете в Недетские гонки(Rc Cars)? Знаете каждый поворот, яму, ухаб и можете с закрытыми глазами проехать карту на мышечной памяти? Надоело ездить по одним и тем же картам? Хотите чего-то новенького? А как насчет зеркальных карт??? Да, это те же самые карты, но Вы получите совсем другие ощущения! Непривычные повороты, кочки, на которые вы никогда в жизни не наезжали. Мозг будет гореть и даже мышечная память не спасет. Звучит интересно? Так чего Вы ждете! Скачивайте зеркальный мод. Это обновление для Вашей игры будет лучше официального!
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="https://github.com/MaxsonDev/rccars_mirror_maps_mod/blob/main/images/Screen9.jpg" alt="Оригинал" style="width: 48%;">
+    <img src="https://github.com/MaxsonDev/rccars_mirror_maps_mod/blob/main/images/Screen3.jpg" alt="Зеркалка" style="width: 48%;">
+</div>
+
 ## Где скачать мод?
 Скачать зеркальные карты можно в разделе [**Releases**](https://github.com/MaxsonDev/rccars_mirror_maps_mod/releases) данного репозитория. 
 
@@ -22,6 +28,28 @@
 6. Играть!
 
 Предварительно в папке с игрой сохранить файлы из папок **RCCarsDB**, **CarProfiles**, **Profiles**. Файлы в этих папках будут **заменены**!
+
+## Скриншоты
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="https://github.com/MaxsonDev/rccars_mirror_maps_mod/blob/main/images/Screen10.jpg" alt="Пляж" style="width: 48%;">
+    <img src="https://github.com/MaxsonDev/rccars_mirror_maps_mod/blob/main/images/Screen7.jpg" alt="Деревня" style="width: 48%;">
+</div>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="https://github.com/MaxsonDev/rccars_mirror_maps_mod/blob/main/images/Screen2.jpg" alt="Форт" style="width: 48%;">
+    <img src="https://github.com/MaxsonDev/rccars_mirror_maps_mod/blob/main/images/Screen6.jpg" alt="База ПВО" style="width: 48%;">
+</div>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="https://github.com/MaxsonDev/rccars_mirror_maps_mod/blob/main/images/Screen12.jpg" alt="Шахта" style="width: 48%;">
+    <img src="https://github.com/MaxsonDev/rccars_mirror_maps_mod/blob/main/images/Screen8.jpg" alt="Кемпинг" style="width: 48%;">
+</div>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="https://github.com/MaxsonDev/rccars_mirror_maps_mod/blob/main/images/Screen4.jpg" alt="Объект Х" style="width: 48%;">
+    <img src="https://github.com/MaxsonDev/rccars_mirror_maps_mod/blob/main/images/Screen11.jpg" alt="Ранчо" style="width: 48%;">
+</div>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="https://github.com/MaxsonDev/rccars_mirror_maps_mod/blob/main/images/Screen1.jpg" alt="СС-30" style="width: 48%;">
+    <img src="https://github.com/MaxsonDev/rccars_mirror_maps_mod/blob/main/images/Screen5.jpg" alt="Война" style="width: 48%;">
+</div>
 
 # Лог Версий Карт
 ## [3.0] - 27-10-2025
